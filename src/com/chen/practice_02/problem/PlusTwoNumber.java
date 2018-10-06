@@ -1,6 +1,6 @@
-package com.chen.pratice_02.problem;
+package com.chen.practice_02.problem;
 
-import com.chen.pratice_02.model.ListNode;
+import com.chen.practice_02.model.ListNode;
 
 public class PlusTwoNumber {
 

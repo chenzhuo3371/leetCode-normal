@@ -1,6 +1,6 @@
-package com.chen.pratice_02.test;
+package com.chen.practice_02.test;
 
-import com.chen.pratice_02.model.ListNode;
+import com.chen.practice_02.model.ListNode;
 
 public class ListNodeReverseTest {
 

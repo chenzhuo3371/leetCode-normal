@@ -1,4 +1,4 @@
-package com.chen.pratice_02.model;
+package com.chen.practice_02.model;
 
 
 public class ListNode {
